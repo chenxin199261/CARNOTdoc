@@ -18,12 +18,13 @@ Prerequisites Environment
 >>>>>>>>>
 
 The following compilers and parallel libraries are needed before compiling CARNOT:
-- Fortran compiler  
-- C compiler
-- MPI library 
 
-:Suggested combination: 
- - gcc version 4.8.5 + MPI 5.0 ( intel_mpi/2015_u1) 
+* Fortran compiler  
+* C compiler
+* MPI library 
+
+Suggested combination: 
+ * gcc version 4.8.5 + MPI 5.0 ( intel_mpi/2015_u1) 
 
 
 Compile Quantum Chemistry Engine
