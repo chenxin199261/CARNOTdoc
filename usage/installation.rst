@@ -33,6 +33,7 @@ Compile Quantum Chemistry Engine
 Enter into the directory of deft-source, and compile the source code of DeFT.
 
 .. code-block:: bash
+
    make -j 4 
 
 After compilation, a static library name ``libDeFT.a`` is yielded in the directory. Copy this static library to the directory of  CARNOT-source. 
@@ -44,5 +45,6 @@ Enter into the directory of CARNOT-source. And compile the code into executable 
 
 
 .. code-block:: bash
+
    make 
 
