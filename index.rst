@@ -13,6 +13,8 @@ Content
 CARNOT is a simulation software
 
 
+.. image:: ./image/carnot_logo.jpg
+   :width: 80pt
 
 
 .. Hidden TOCs
